@@ -1,0 +1,2 @@
+# Paradigma
+tp(Parametros)
